@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm a college student pursuing CSE 👋
 
-<!--
-**sounak1410/sounak1410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Open Source Enthusiast | Competitive Programming Enthusiast 
 
-Here are some ideas to get you started:
+I am keen in researching on Edge AI, as well as on the hardware that would make it possible to levels incomprehensible right now.
+I want to build things that are actually net productive for the society as a whole.
+Hate services like "10 minutes delivery" apps, but interested in the algorithm behind it to put it into something actually useful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,python,aws,docker,git)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+
+### 📊 GitHub Stats
+&nbsp; ![Your Stats](https://github-readme-stats.vercel.app/api?username=sounak1410&show_icons=true&theme=radical)
+&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sounak1410&layout=compact&theme=radical)
+
+---
+
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/sounak-chakraborty-078433387?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dev.sounak2007@gmail.com)
