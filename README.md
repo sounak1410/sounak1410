@@ -9,7 +9,7 @@ Hate services like "10 minutes delivery" apps, but interested in the algorithm b
 ---
 
 ### 🛠 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,python,aws,docker,git)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,c,python,cloudflare,git)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
