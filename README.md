@@ -18,4 +18,7 @@ Hate services like "10 minutes delivery" apps, but interested in the algorithm b
 &nbsp; ![Your Stats](https://github-readme-stats.vercel.app/api?username=sounak1410&show_icons=true&theme=radical)
 &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sounak1410&layout=compact&theme=radical)
 
+
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]https://www.linkedin.com/in/sounak-chakraborty-078433387?utm_source=share_via&utm_content=profile&utm_medium=member_android [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dev.sounak2007@gmail.com)
 ---
