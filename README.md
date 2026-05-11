@@ -1,4 +1,4 @@
-# Hi there, I'm a college student pursuing CSE 👋
+# I'm a college student pursuing CSE 
 
 **Open Source Enthusiast | Competitive Programming Enthusiast 
 
